@@ -1,0 +1,10 @@
+# CP Helper
+.cph/
+
+# VS Code
+.vscode/
+
+# Compiled files
+*.exe
+*.out
+*.o
